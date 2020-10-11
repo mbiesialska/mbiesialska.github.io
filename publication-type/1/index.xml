@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Magdalena Biesialska</title>
+    <link>https://mbiesialska.github.io/publication-type/1/</link>
+      <atom:link href="https://mbiesialska.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Magdalena Biesialska. All Rights Reserved.</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mbiesialska.github.io/images/icon_hu42a5118afc49636e6fda7ce5d4b48056_3366_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>https://mbiesialska.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Continual Lifelong Learning in Natural Language Processing: A Survey</title>
+      <link>https://mbiesialska.github.io/publication/coling2020-clinnlp/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mbiesialska.github.io/publication/coling2020-clinnlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis with Contextual Embeddings and Self-attention</title>
+      <link>https://mbiesialska.github.io/publication/ismis2020-sa/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://mbiesialska.github.io/publication/ismis2020-sa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refinement of Unsupervised Cross-Lingual Word Embeddings</title>
+      <link>https://mbiesialska.github.io/publication/ecai2020-refinement/</link>
+      <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://mbiesialska.github.io/publication/ecai2020-refinement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing Word Embeddings with Knowledge Extracted from Lexical Resources</title>
+      <link>https://mbiesialska.github.io/publication/acl2020srw-enhancing/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://mbiesialska.github.io/publication/acl2020srw-enhancing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The TALP-UPC System for the WMT Similar Language Task: Statistical vs Neural Machine Translation</title>
+      <link>https://mbiesialska.github.io/publication/wmt19-upc-system/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://mbiesialska.github.io/publication/wmt19-upc-system/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

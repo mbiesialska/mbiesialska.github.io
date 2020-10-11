@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GAN | Magdalena Biesialska</title>
+    <link>https://mbiesialska.github.io/tag/gan/</link>
+      <atom:link href="https://mbiesialska.github.io/tag/gan/index.xml" rel="self" type="application/rss+xml" />
+    <description>GAN</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Magdalena Biesialska. All Rights Reserved.</copyright><lastBuildDate>Fri, 10 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mbiesialska.github.io/images/icon_hu42a5118afc49636e6fda7ce5d4b48056_3366_512x512_fill_lanczos_center_2.png</url>
+      <title>GAN</title>
+      <link>https://mbiesialska.github.io/tag/gan/</link>
+    </image>
+    
+    <item>
+      <title>Enhancing Word Embeddings with Knowledge Extracted from Lexical Resources</title>
+      <link>https://mbiesialska.github.io/publication/acl2020srw-enhancing/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://mbiesialska.github.io/publication/acl2020srw-enhancing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

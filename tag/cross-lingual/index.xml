@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cross-lingual | Magdalena Biesialska</title>
+    <link>https://mbiesialska.github.io/tag/cross-lingual/</link>
+      <atom:link href="https://mbiesialska.github.io/tag/cross-lingual/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cross-lingual</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Magdalena Biesialska. All Rights Reserved.</copyright><lastBuildDate>Sat, 29 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mbiesialska.github.io/images/icon_hu42a5118afc49636e6fda7ce5d4b48056_3366_512x512_fill_lanczos_center_2.png</url>
+      <title>Cross-lingual</title>
+      <link>https://mbiesialska.github.io/tag/cross-lingual/</link>
+    </image>
+    
+    <item>
+      <title>Refinement of Unsupervised Cross-Lingual Word Embeddings</title>
+      <link>https://mbiesialska.github.io/publication/ecai2020-refinement/</link>
+      <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://mbiesialska.github.io/publication/ecai2020-refinement/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
