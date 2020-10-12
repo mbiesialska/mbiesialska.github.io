@@ -5,12 +5,20 @@
     <link>https://mbiesialska.github.io/tag/embeddings/</link>
       <atom:link href="https://mbiesialska.github.io/tag/embeddings/index.xml" rel="self" type="application/rss+xml" />
     <description>Embeddings</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Magdalena Biesialska. All Rights Reserved.</copyright><lastBuildDate>Sat, 29 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Magdalena Biesialska. All Rights Reserved.</copyright><lastBuildDate>Thu, 17 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mbiesialska.github.io/images/icon_hu42a5118afc49636e6fda7ce5d4b48056_3366_512x512_fill_lanczos_center_2.png</url>
       <title>Embeddings</title>
       <link>https://mbiesialska.github.io/tag/embeddings/</link>
     </image>
+    
+    <item>
+      <title>Sentiment Analysis with Contextual Embeddings and Self-attention</title>
+      <link>https://mbiesialska.github.io/publication/ismis2020-sa/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://mbiesialska.github.io/publication/ismis2020-sa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Refinement of Unsupervised Cross-Lingual Word Embeddings</title>
