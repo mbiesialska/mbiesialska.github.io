@@ -63,6 +63,41 @@
   </url>
   
   <url>
+    <loc>https://mbiesialska.github.io/author/fethi-bougares/</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mbiesialska.github.io/publication/wmt20-llmt/</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mbiesialska.github.io/author/loic-barrault/</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mbiesialska.github.io/tag/machine-translation/</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mbiesialska.github.io/tag/nmt/</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mbiesialska.github.io/author/olivier-galibert/</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mbiesialska.github.io/tag/wmt/</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mbiesialska.github.io/tag/embeddings/</loc>
     <lastmod>2020-09-17T00:00:00+00:00</lastmod>
   </url>
@@ -133,27 +168,7 @@
   </url>
   
   <url>
-    <loc>https://mbiesialska.github.io/tag/machine-translation/</loc>
-    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mbiesialska.github.io/author/marta-r-costa-jussa/</loc>
-    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mbiesialska.github.io/tag/nmt/</loc>
-    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mbiesialska.github.io/publication/wmt19-upc-system/</loc>
-    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mbiesialska.github.io/tag/wmt/</loc>
     <lastmod>2019-08-02T00:00:00+00:00</lastmod>
   </url>
   

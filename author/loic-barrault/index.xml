@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>WMT | Magdalena Biesialska</title>
-    <link>https://mbiesialska.github.io/tag/wmt/</link>
-      <atom:link href="https://mbiesialska.github.io/tag/wmt/index.xml" rel="self" type="application/rss+xml" />
-    <description>WMT</description>
+    <title>Loïc Barrault | Magdalena Biesialska</title>
+    <link>https://mbiesialska.github.io/author/loic-barrault/</link>
+      <atom:link href="https://mbiesialska.github.io/author/loic-barrault/index.xml" rel="self" type="application/rss+xml" />
+    <description>Loïc Barrault</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Magdalena Biesialska.</copyright><lastBuildDate>Thu, 19 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mbiesialska.github.io/images/icon_hu42a5118afc49636e6fda7ce5d4b48056_3366_512x512_fill_lanczos_center_2.png</url>
-      <title>WMT</title>
-      <link>https://mbiesialska.github.io/tag/wmt/</link>
+      <title>Loïc Barrault</title>
+      <link>https://mbiesialska.github.io/author/loic-barrault/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://mbiesialska.github.io/publication/wmt20-llmt/</link>
       <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://mbiesialska.github.io/publication/wmt20-llmt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The TALP-UPC System for the WMT Similar Language Task: Statistical vs Neural Machine Translation</title>
-      <link>https://mbiesialska.github.io/publication/wmt19-upc-system/</link>
-      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://mbiesialska.github.io/publication/wmt19-upc-system/</guid>
       <description></description>
     </item>
     
