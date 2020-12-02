@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ondřej Bojar | Magdalena Biesialska</title>
+    <link>https://mbiesialska.github.io/author/ondrej-bojar/</link>
+      <atom:link href="https://mbiesialska.github.io/author/ondrej-bojar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ondřej Bojar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Magdalena Biesialska.</copyright><lastBuildDate>Thu, 19 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mbiesialska.github.io/images/icon_hu42a5118afc49636e6fda7ce5d4b48056_3366_512x512_fill_lanczos_center_2.png</url>
+      <title>Ondřej Bojar</title>
+      <link>https://mbiesialska.github.io/author/ondrej-bojar/</link>
+    </image>
+    
+    <item>
+      <title>Findings of the 2020 Conference on Machine Translation (WMT20)</title>
+      <link>https://mbiesialska.github.io/publication/wmt20-findings/</link>
+      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://mbiesialska.github.io/publication/wmt20-findings/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
