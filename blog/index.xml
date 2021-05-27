@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs | Magdalena Biesialska</title>
+    <link>https://mbiesialska.github.io/blog/</link>
+      <atom:link href="https://mbiesialska.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blogs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021 Magdalena Biesialska.</copyright><lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mbiesialska.github.io/images/icon_hu42a5118afc49636e6fda7ce5d4b48056_3366_512x512_fill_lanczos_center_2.png</url>
+      <title>Blogs</title>
+      <link>https://mbiesialska.github.io/blog/</link>
+    </image>
+    
+    <item>
+      <title>Lifelong Learning</title>
+      <link>https://mbiesialska.github.io/blog/lifelong-learning/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://mbiesialska.github.io/blog/lifelong-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Neural Machine Translation</title>
+      <link>https://mbiesialska.github.io/blog/unsupervised-mt/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://mbiesialska.github.io/blog/unsupervised-mt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
